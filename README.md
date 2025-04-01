@@ -73,6 +73,8 @@ sorteador/
 ├── index.html                  # Página principal
 ├── js/                         # Scripts
 │   └── app.js                  # Lógica de interação
+├── screenshot/                 # Screenshot
+│   └── tela-principal.png      # Imagem da tela principal do projeto
 ├── LICENSE                     # Licença do projeto
 └── README.md                   # Documentação do projeto
 ```
